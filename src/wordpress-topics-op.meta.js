@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         WordPress.org Topics OP
 // @namespace    https://www.clorith.net
-// @version      0.1
+// @version      0.1.1
 // @description  Mark topic OP on their replies for easy recognition.
 // @author       Clorith
 // @match        https://wordpress.org/support/topic/*
