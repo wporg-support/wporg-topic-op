@@ -1,5 +1,9 @@
 # WordPress.org Topic Original Poster
 
+## This project has been deprecated
+
+As for February 13th 2021 (2021-02-13), this project has been archived. The functionality this userscript provided has been built into the bbPress forums of WordPress.org at this time.
+
 ## About the project
 
 This is a userscript, used with TamperMonkey or GreaseMonkey, to highlight the user that created the currently viewed support topic on WordPress.org
