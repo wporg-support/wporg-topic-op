@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         WordPress.org Topics OP
 // @namespace    https://www.clorith.net
-// @version      0.1.1
+// @version      0.2.0
 // @description  Mark topic OP on their replies for easy recognition.
 // @author       Clorith
 // @match        https://wordpress.org/support/topic/*
@@ -32,6 +32,6 @@
             return;
         }
 
-        reply_username[0].innerHTML = reply_username[0].innerHTML + op_block;
+        reply_username[0].insertAdjacentHTML( 'afterend', op_block );
     } );
 })();
